@@ -1,0 +1,13 @@
+C:\Users\LENOVO\RiderProjects\Laboratorio07_AndreGonzales\Lab07_AndreGonzales\bin\Release\net9.0\publish\Lab07_AndreGonzales.exe
+C:\Users\LENOVO\RiderProjects\Laboratorio07_AndreGonzales\Lab07_AndreGonzales\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\LENOVO\RiderProjects\Laboratorio07_AndreGonzales\Lab07_AndreGonzales\bin\Release\net9.0\publish\appsettings.json
+C:\Users\LENOVO\RiderProjects\Laboratorio07_AndreGonzales\Lab07_AndreGonzales\bin\Release\net9.0\publish\Lab07_AndreGonzales.dll
+C:\Users\LENOVO\RiderProjects\Laboratorio07_AndreGonzales\Lab07_AndreGonzales\bin\Release\net9.0\publish\Lab07_AndreGonzales.deps.json
+C:\Users\LENOVO\RiderProjects\Laboratorio07_AndreGonzales\Lab07_AndreGonzales\bin\Release\net9.0\publish\Lab07_AndreGonzales.runtimeconfig.json
+C:\Users\LENOVO\RiderProjects\Laboratorio07_AndreGonzales\Lab07_AndreGonzales\bin\Release\net9.0\publish\Lab07_AndreGonzales.pdb
+C:\Users\LENOVO\RiderProjects\Laboratorio07_AndreGonzales\Lab07_AndreGonzales\bin\Release\net9.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\LENOVO\RiderProjects\Laboratorio07_AndreGonzales\Lab07_AndreGonzales\bin\Release\net9.0\publish\Microsoft.OpenApi.dll
+C:\Users\LENOVO\RiderProjects\Laboratorio07_AndreGonzales\Lab07_AndreGonzales\bin\Release\net9.0\publish\Newtonsoft.Json.dll
+C:\Users\LENOVO\RiderProjects\Laboratorio07_AndreGonzales\Lab07_AndreGonzales\bin\Release\net9.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\RiderProjects\Laboratorio07_AndreGonzales\Lab07_AndreGonzales\bin\Release\net9.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\RiderProjects\Laboratorio07_AndreGonzales\Lab07_AndreGonzales\bin\Release\net9.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

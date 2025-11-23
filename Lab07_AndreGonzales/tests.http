@@ -1,0 +1,45 @@
+### 1 - POST sin role (debe devolver 403 No role)
+POST http://localhost:5090/api/products
+Content-Type: application/json
+
+{
+  "name": "Mouse",
+  "price": 25.5,
+  "description": "Mouse inalámbrico"
+}
+
+### 2 - POST con Role: User (debe devolver 403 User no tiene permiso para POST)
+POST http://localhost:5090/api/products
+Content-Type: application/json
+Role: User
+
+{
+  "name": "Mouse",
+  "price": 25.5,
+  "description": "Mouse inalámbrico"
+}
+
+### 3 - POST con Role: Admin (debe devolver 200 OK si body válido)
+POST http://localhost:5090/api/products
+Content-Type: application/json
+Role: Admin
+
+{
+  "name": "Mouse",
+  "price": 25.5,
+  "description": "Mouse inalámbrico"
+}
+
+### 4 - GET con Role: User (debe devolver 200 OK)
+GET http://localhost:5090/api/products
+Role: User
+
+### 5 - GET sin role (debe devolver 403 No role)
+GET http://localhost:5090/api/products
+
+### 6 - Forzar error 500 (Role: Admin) -> /api/products/error
+POST http://localhost:5090/api/products/error
+Content-Type: application/json
+Role: Admin
+
+{}
